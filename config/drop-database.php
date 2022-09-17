@@ -1,14 +1,12 @@
 <?php 
 
-    //connection integration
+    // integrasi koneksi
     require_once('connection.php');
 
     // Create database
-    $sql = "DROP DATABASE sagu_foundation";
+    $sql = "DROP DATABASE sacode_course";
     if (mysqli_query($conn, $sql)) {
         echo "Database dropped successfully";
     } else {
-        echo "Error dropping database: " . mysqli_error($conn);
+        echo "Error creating database: " . mysqli_error($conn);
     }
-
-?>

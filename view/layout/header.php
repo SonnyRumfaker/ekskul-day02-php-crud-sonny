@@ -26,11 +26,11 @@
 
     <!-- HEADER START -->
     <header class="text-center py-5 bg-dark text-light">
-            <h1 class="fw-bolder">
-                SaCode CRUD Template <span class="badge bg-secondary">Versi 1.0</span>
-            </h1>
-            <p class="text-muted">
-                <i class="fa-solid fa-plus-square"></i> Create, <i class="fa-solid fa-eye"></i> Read, <i class="fa-solid fa-pencil"></i> Update, <i class="fa-solid fa-trash"></i> Delete
-            </p>
+        <h1 class="fw-bolder">
+            SaCode CRUD Template <span class="badge bg-secondary">Versi 1.0</span>
+        </h1>
+        <p class="text-muted">
+            <i class="fa-solid fa-plus-square"></i> Create, <i class="fa-solid fa-eye"></i> Read, <i class="fa-solid fa-pencil"></i> Update, <i class="fa-solid fa-trash"></i> Delete
+        </p>
     </header>
     <!-- HEADER END -->
